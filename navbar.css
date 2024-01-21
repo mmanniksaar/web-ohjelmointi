@@ -1,0 +1,39 @@
+
+nav ul{
+    justify-content: center; /* Horisontaalne keskjoondamine */
+    align-items: center; /* Vertikaalne keskjoondamine */
+    list-style-type: none;
+    margin: 0;
+   /* padding: 1vh;*/
+    overflow: hidden;
+    height: 8vh;
+    font-family: 'Arial', sans-serif;
+    background-color: #484343;
+    overflow: hidden;
+    z-index: 1;
+  }
+  
+
+nav li {
+    padding: 0;
+    display: flex;
+    float: auto;
+    font-size: 6vh;
+    display: inline;
+    justify-content: center; /* Horisontaalne keskjoondamine */
+    align-items: center; /* Vertikaalne keskjoondamine */
+
+  }
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 0.1vh;
+    margin-left: 5vw;
+}
+
+li a:hover {
+    background-color: #574444;
+  }
