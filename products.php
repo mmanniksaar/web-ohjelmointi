@@ -113,6 +113,7 @@ include "navbar.php";
         </div>
     </div>  
 
+
     <div class="img-card iCard-style1">
         <div class="card-content">
             <div class="card-image">
@@ -209,6 +210,8 @@ include "navbar.php";
             <a href="#" title="Read Full"><span>Read Full</span></a>
         </div>
     </div>  
+
+
 </div>
 
 
